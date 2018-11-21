@@ -18,6 +18,6 @@ public class Principal {
         a.add("Hola");
         a.add(" ");
         a.add("Mundo");
-        System.out.prinln("");
+        System.out.println("");
     }
 }
